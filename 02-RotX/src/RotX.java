@@ -88,7 +88,5 @@ public class RotX {
 
             forcaBrutaRotX(xifraRotX(provesXifrat[index], desplacament));
         }
-    }
-
-    
+    }   
 }
